@@ -14,8 +14,4 @@
 0.0.0.0 www.gdmf.apple.com
 0.0.0.0 ppq.apple.com
 0.0.0.0 iadsdk.apple.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 googletagservices.com
-0.0.0.0 adclick.g.douclick.net
 0.0.0.0 crl.apple.com
