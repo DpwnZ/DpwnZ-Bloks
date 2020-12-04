@@ -5,10 +5,10 @@
 ! Homepage: https://diaperboydamien.wordpress.com/
 !
 ! -----------------------DpwnZ AdBlocking Filters-----------------------!
-!
 ||app.link^$important
 ||0l1201s548b2.top^$important
 ||d24ak3f2b.top^$important
 ||presentlyarch.com^$important
 ||northtariffgallon.com^$important
 ||googleadservices.com^$important
+||braze.com^$important
