@@ -1,5 +1,5 @@
 [Apple Anti-Revoke Block List 1.0]
-! Version: 202012032101
+! Version: 202012032248
 ! Title: Apple Anti-Revoke
 ! Last modified: 03 Dec 2020 22:48 EST
 ! Homepage: https://diaperboydamien.wordpress.com/
