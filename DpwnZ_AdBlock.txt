@@ -11,3 +11,4 @@
 ||d24ak3f2b.top^$important
 ||presentlyarch.com^$important
 ||northtariffgallon.com^$important
+||googleadservices.com^$important
