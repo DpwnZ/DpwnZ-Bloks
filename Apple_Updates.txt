@@ -1,0 +1,6 @@
+0.0.0.0 updates-http.cdn-apple.com
+0.0.0.0 swcdn.apple.com
+0.0.0.0 swdownload.apple.com
+0.0.0.0 swquery.apple.com
+0.0.0.0 swscan.apple.com
+0.0.0.0 updates.cdn-apple.com

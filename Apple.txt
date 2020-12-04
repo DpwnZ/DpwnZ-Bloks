@@ -1,0 +1,7 @@
+||apple.com^$important
+||icloud.com^$important
+||me.com^$important
+||apple-dns.net^$important
+||itunes.com^$important
+||aaplimg.com^$important
+||mzstatic.com^$important
