@@ -1,4 +1,4 @@
-[DpwnZ AdBlock List 1.0]
+[DpwnZ Tracking Block List 1.0]
 ! Version: 202012032101
 ! Title: DpwnZ Analytics
 ! Last modified: 03 Dec 2020 21:01 EST
