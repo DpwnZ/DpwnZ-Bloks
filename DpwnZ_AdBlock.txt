@@ -1,0 +1,12 @@
+[DpwnZ AdBlock List 1.0]
+! Version: 202012032101
+! Title: DpwnZ AdBlock
+! Last modified: 03 Dec 2020 21:01 EST
+! Homepage: https://diaperboydamien.wordpress.com/
+!
+! -----------------------DpwnZ AdBlocking Filters-----------------------!
+!
+||app.link^$important
+||0l1201s548b2.top^$important
+||d24ak3f2b.top^$important
+||presentlyarch.com^$important
