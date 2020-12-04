@@ -5,8 +5,15 @@
 ! Homepage: https://diaperboydamien.wordpress.com/
 !
 ! -----------------------DpwnZ Tracking Filters-----------------------!
-!
 0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 us-east-1.onemobile.yahoo.com^
+0.0.0.0 lb.wordpress.com^
 ||amung.us^$important
 ||app-measurement.com^$important
-||8675309.com
+||adtechus.com^$important
+||parse.ly^$important
+||parsely.com^$important
+||scorecardresearch.com^$important
+||atwola.com^$important
+||crashlytics.com^$important
+||appsflyer.com^$important
