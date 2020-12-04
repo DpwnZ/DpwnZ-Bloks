@@ -1,3 +1,11 @@
+[Apple Anti-Revoke Block List 1.0]
+! Version: 202012032101
+! Title: Apple Anti-Revoke
+! Last modified: 03 Dec 2020 21:01 EST
+! Homepage: https://diaperboydamien.wordpress.com/
+!
+! -----------------------General Apple Revoke blocking filters-----------------------!
+!
 0.0.0.0 ocsp.int-x3.letsencrypt.org
 0.0.0.0 ocsp.apple.com
 0.0.0.0 world-gen.g.aaplimg.com
