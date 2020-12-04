@@ -1,0 +1,11 @@
+[DpwnZ AdBlock List 1.0]
+! Version: 202012032101
+! Title: DpwnZ Analytics
+! Last modified: 03 Dec 2020 21:01 EST
+! Homepage: https://diaperboydamien.wordpress.com/
+!
+! -----------------------DpwnZ Tracking Filters-----------------------!
+!
+0.0.0.0 app-analytics-v2.snapchat.com
+||amung.us^$important
+||app-measurement.com^$important
