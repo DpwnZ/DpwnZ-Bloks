@@ -1,6 +1,6 @@
 [Apple Anti-Revoke Block List 1.0]
-! Version: 202012032248
-! Title: Apple Anti-Revoke
+! Version: 202012061636
+! Title: Apple Anti-Revoke v2
 ! Last modified: 03 Dec 2020 22:48 EST
 ! Homepage: https://raw.githubusercontent.com/DpwnZ/DpwnZ-Bloks/main/Apple_Anti-Revoke_v2.txt
 !
