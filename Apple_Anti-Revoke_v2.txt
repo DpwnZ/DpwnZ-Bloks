@@ -2,7 +2,7 @@
 ! Version: 202012032248
 ! Title: Apple Anti-Revoke
 ! Last modified: 03 Dec 2020 22:48 EST
-! Homepage: https://diaperboydamien.wordpress.com/
+! Homepage: https://raw.githubusercontent.com/DpwnZ/DpwnZ-Bloks/main/Apple_Anti-Revoke_v2.txt
 !
 ! -----------------------PPQ Apple Revoke blocking filters-----------------------!
 0.0.0.0 ppq.apple.com 
