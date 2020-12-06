@@ -5,5 +5,4 @@
 ! Homepage: https://diaperboydamien.wordpress.com/
 !
 ! -----------------------PPQ Apple Revoke blocking filters-----------------------!
-!
-0.0.0.0 ppq.apple.com
+0.0.0.0 ppq.apple.com 
