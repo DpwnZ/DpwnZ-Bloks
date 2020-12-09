@@ -18,3 +18,5 @@
 ||crashlytics.com^$important
 ||appsflyer.com^$important
 ||cardlytics.com^$important
+||metrics.icloud.com^$important
+||securemetrics.apple.com^$important
