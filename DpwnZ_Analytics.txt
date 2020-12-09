@@ -17,3 +17,4 @@
 ||atwola.com^$important
 ||crashlytics.com^$important
 ||appsflyer.com^$important
+||cardlytics.com^$important
