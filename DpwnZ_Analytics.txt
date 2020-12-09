@@ -2,7 +2,7 @@
 ! Version: 202012032101
 ! Title: DpwnZ Analytics
 ! Last modified: 03 Dec 2020 21:01 EST
-! Homepage: https://diaperboydamien.wordpress.com/
+! Homepage: https://raw.githubusercontent.com/DpwnZ/DpwnZ-Bloks/main/DpwnZ_Analytics.txt
 !
 ! -----------------------DpwnZ Tracking Filters-----------------------!
 0.0.0.0 app-analytics-v2.snapchat.com
