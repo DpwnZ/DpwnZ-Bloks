@@ -1,0 +1,8 @@
+[Apple Anti-Revoke Block List 1.0]
+! Version: 202012061637
+! Title: Apple Anti-Revoke v2
+! Last modified: 06 Dec 2020 16:37 EST
+! Homepage: https://raw.githubusercontent.com/DpwnZ/DpwnZ-Bloks/main/Apple_Anti-Revoke_v2.txt
+!
+! -----------------------PPQ Apple Revoke blocking filters-----------------------!
+0.0.0.0 ppq.apple.com 
