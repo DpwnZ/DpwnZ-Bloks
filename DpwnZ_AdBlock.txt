@@ -5,7 +5,6 @@
 ! Homepage: https://github.com/DpwnZ/DpwnZ-Bloks/raw/main/DpwnZ_AdBlock.txt
 !
 ! -----------------------DpwnZ AdBlocking Filters-----------------------!
-||app.link^$important
 ||0l1201s548b2.top^$important
 ||d24ak3f2b.top^$important
 ||presentlyarch.com^$important
