@@ -20,3 +20,5 @@
 ||cardlytics.com^$important
 ||metrics.icloud.com^$important
 ||securemetrics.apple.com^$important
+0 extanalytics.com
+:: extanalytics.com
