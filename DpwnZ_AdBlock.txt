@@ -12,3 +12,30 @@
 ||googleadservices.com^$important
 ||braze.com^$important
 ||googleadservices.com^$important
+
+#updated format
+
+0 sumologic.com
+:: sumologic.com
+0 olark.com
+:: olark.com
+0 pardot.com
+:: pardot.com
+0 appsmetric.com
+:: appsmetric.com
+0 braze.com
+:: braze.com
+0 pingdom.com
+:: pingdom.com
+0 pingdom.net
+:: pingdom.net
+0 adtracker.me
+:: adtracker.me
+0 track-app.club
+:: track-app.club
+0 data-tracking.net
+:: data-tracking.net
+0 highwebmedia.com
+:: highwebmedia.com
+0 h-cdn.com
+:: h-cdn.com
