@@ -1,20 +1,10 @@
 [DpwnZ AdBlock List 1.0]
-! Version: 202012032101
+! Version: 202102080638
 ! Title: DpwnZ AdBlock
-! Last modified: 03 Dec 2020 21:01 EST
-! Homepage: https://github.com/DpwnZ/DpwnZ-Bloks/raw/main/DpwnZ_AdBlock.txt
+! Last modified: 08 Feb 2021 06:38 EST
+! Homepage: http://diaperboydamien.com
 !
 ! -----------------------DpwnZ AdBlocking Filters-----------------------!
-||0l1201s548b2.top^$important
-||d24ak3f2b.top^$important
-||presentlyarch.com^$important
-||northtariffgallon.com^$important
-||googleadservices.com^$important
-||braze.com^$important
-||googleadservices.com^$important
-
-
-
 0 sumologic.com
 :: sumologic.com
 0 olark.com
@@ -41,3 +31,27 @@
 :: h-cdn.com
 0 extanalytics.com
 :: extanalytics.com
+
+#needs updated
+||0l1201s548b2.top^$important
+||d24ak3f2b.top^$important
+||presentlyarch.com^$important
+||northtariffgallon.com^$important
+||googleadservices.com^$important
+||braze.com^$important
+||googleadservices.com^$important
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 us-east-1.onemobile.yahoo.com^
+0.0.0.0 lb.wordpress.com^
+||amung.us^$important
+||app-measurement.com^$important
+||adtechus.com^$important
+||parse.ly^$important
+||parsely.com^$important
+||scorecardresearch.com^$important
+||atwola.com^$important
+||crashlytics.com^$important
+||appsflyer.com^$important
+||cardlytics.com^$important
+||metrics.icloud.com^$important
+||securemetrics.apple.com^$important
