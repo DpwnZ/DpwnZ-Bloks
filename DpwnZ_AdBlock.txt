@@ -13,7 +13,7 @@
 ||braze.com^$important
 ||googleadservices.com^$important
 
-#updated format
+
 
 0 sumologic.com
 :: sumologic.com
@@ -39,3 +39,5 @@
 :: highwebmedia.com
 0 h-cdn.com
 :: h-cdn.com
+0 extanalytics.com
+:: extanalytics.com
